@@ -12,4 +12,3 @@ public class Bitset {
       System.out.println(newNumber);
    }
 }
-
