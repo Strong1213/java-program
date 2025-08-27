@@ -9,7 +9,7 @@ class bublesort {
 
 
    public static void main(String args[]) {
-       int arr[] = {6, 8, 1, 3, 2};
+       int arr[] = {6, 9, 1, 3, 2};
 
 
        //bubble sort
